@@ -1,7 +1,16 @@
 Section 25: Working with JavaScript Frameworks 0 / 6 | 31min
 - [ ] 460. Module Introduction 1min
 - [ ] 461. What and Why? 8min
+  - Libraries
+    - 3rd party packages that add functionalities
+    - one or a few core tasks
+  - Frameworks
+    - structured rule sets
+    - Angular: Leans heavily on TypeScript
+    - Vue
+    - React (Edge case library): JSX
 - [ ] 462. The Idea Behind React.js 3min
+  - JavaScript Library For Building User Interfaces
 - [ ] 463. Analyzing a React Project 18min
 - [ ] 464. Wrap Up 2min
 - [ ] 465. Useful Resources & Links 1min
